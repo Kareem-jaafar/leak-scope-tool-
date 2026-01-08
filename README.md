@@ -34,6 +34,9 @@ LeakScope is a passive OSINT tool that identifies and classifies publicly expose
 - Playwright
 
 Install dependencies:
-
+```bash
 pip install playwright
 playwright install chromium
+
+## Download 
+git clone https://github.com/Kareem-jaafar/leak-scope-tool-.git
