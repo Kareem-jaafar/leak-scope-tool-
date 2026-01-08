@@ -33,9 +33,12 @@ LeakScope is a passive OSINT tool that identifies and classifies publicly expose
 - Google Chrome / Chromium
 - Playwright
 
+## How Run 
+python3 recon-leaks.py
+
 Install dependencies:
 ```bash
-pip install playwright
+pipx install playwright
 playwright install chromium
 
 ## Download 
